@@ -73,7 +73,6 @@ class _storageState extends State<storage> {
             } on FirebaseException catch (e) {
             }
           }, child: Text("Send"))
-
         ],
       ),
     );
