@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289838011689",
+    "project_id": "kishan-bad59",
+    "storage_bucket": "kishan-bad59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289838011689:android:3febf35dd772a94f5a5338",
+        "android_client_info": {
+          "package_name": "com.example.prac_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289838011689-2q44vt2qqfms3a2qaonhvfl8tseclcrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4eoz959XSRV0HUTFrpVPczsT9o6YGv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289838011689-2q44vt2qqfms3a2qaonhvfl8tseclcrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
